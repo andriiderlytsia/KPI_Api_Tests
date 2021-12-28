@@ -1,0 +1,11 @@
+E:\KPI\WebApi\ConsoleClient\bin\Debug\ConsoleClient.exe.config
+E:\KPI\WebApi\ConsoleClient\bin\Debug\ConsoleClient.exe
+E:\KPI\WebApi\ConsoleClient\bin\Debug\ConsoleClient.pdb
+E:\KPI\WebApi\ConsoleClient\bin\Debug\NetHttp.dll
+E:\KPI\WebApi\ConsoleClient\bin\Debug\Newtonsoft.Json.dll
+E:\KPI\WebApi\ConsoleClient\bin\Debug\Newtonsoft.Json.xml
+E:\KPI\WebApi\ConsoleClient\obj\Debug\ConsoleClient.csproj.AssemblyReference.cache
+E:\KPI\WebApi\ConsoleClient\obj\Debug\ConsoleClient.csproj.CoreCompileInputs.cache
+E:\KPI\WebApi\ConsoleClient\obj\Debug\ConsoleClient.csproj.CopyComplete
+E:\KPI\WebApi\ConsoleClient\obj\Debug\ConsoleClient.exe
+E:\KPI\WebApi\ConsoleClient\obj\Debug\ConsoleClient.pdb
